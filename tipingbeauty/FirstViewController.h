@@ -9,7 +9,13 @@
 #import <UIKit/UIKit.h>
 
 @interface FirstViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UIView *color;
+@property (strong, nonatomic) IBOutlet UIView *height;
+@property (strong, nonatomic) IBOutlet UIView *weaight;
+- (IBAction)male:(id)sender;
+- (IBAction)female:(id)sender;
 
+- (IBAction)dailytips:(id)sender;
 
 @end
 

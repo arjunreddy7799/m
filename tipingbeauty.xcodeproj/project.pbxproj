@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		87DE69151C9AB72400FBBB11 /* BEAUTYDAILY.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 87DE69141C9AB72400FBBB11 /* BEAUTYDAILY.pdf */; };
+		87DE69171C9AB72D00FBBB11 /* getfit.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 87DE69161C9AB72D00FBBB11 /* getfit.pdf */; };
+		87DFC8241C99D3840015C825 /* DailyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFC8231C99D3840015C825 /* DailyViewController.m */; };
+		87DFC8271C99D3A80015C825 /* WeeklyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFC8261C99D3A80015C825 /* WeeklyViewController.m */; };
+		87DFC82D1C99DB340015C825 /* girl-beautiful-blonde-child-2927.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 87DFC82C1C99DB340015C825 /* girl-beautiful-blonde-child-2927.jpg */; };
+		87DFC82F1C99DC150015C825 /* fitness-workout-clothing-and-women-039-s.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 87DFC82E1C99DC150015C825 /* fitness-workout-clothing-and-women-039-s.jpg */; };
+		87DFC8321C99E1BD0015C825 /* BeautyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFC8311C99E1BD0015C825 /* BeautyViewController.m */; };
+		87DFC8351C99E1DC0015C825 /* SlimViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFC8341C99E1DC0015C825 /* SlimViewController.m */; };
+		87DFC8371C99EA0D0015C825 /* cool-pics-for-facebook-profile-picture-for-girl-animated-photos-for-cute-girls-1540856818.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 87DFC8361C99EA0D0015C825 /* cool-pics-for-facebook-profile-picture-for-girl-animated-photos-for-cute-girls-1540856818.jpg */; };
 		87DFDCCA1C98F8830051FADD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDCC91C98F8830051FADD /* main.m */; };
 		87DFDCCD1C98F8830051FADD /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDCCC1C98F8830051FADD /* AppDelegate.m */; };
 		87DFDCD01C98F8830051FADD /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDCCF1C98F8830051FADD /* FirstViewController.m */; };
@@ -16,6 +25,9 @@
 		87DFDCDB1C98F8830051FADD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 87DFDCD91C98F8830051FADD /* LaunchScreen.storyboard */; };
 		87DFDCE61C98F8840051FADD /* tipingbeautyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDCE51C98F8840051FADD /* tipingbeautyTests.m */; };
 		87DFDCF11C98F8840051FADD /* tipingbeautyUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDCF01C98F8840051FADD /* tipingbeautyUITests.m */; };
+		87DFDD031C9901FA0051FADD /* male.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDD021C9901FA0051FADD /* male.m */; };
+		87DFDD061C9902600051FADD /* female.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDD051C9902600051FADD /* female.m */; };
+		87DFDD091C9902FA0051FADD /* dailytips.m in Sources */ = {isa = PBXBuildFile; fileRef = 87DFDD081C9902FA0051FADD /* dailytips.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +48,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		87DE69141C9AB72400FBBB11 /* BEAUTYDAILY.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = BEAUTYDAILY.pdf; sourceTree = "<group>"; };
+		87DE69161C9AB72D00FBBB11 /* getfit.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = getfit.pdf; sourceTree = "<group>"; };
+		87DFC8221C99D3840015C825 /* DailyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DailyViewController.h; sourceTree = "<group>"; };
+		87DFC8231C99D3840015C825 /* DailyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DailyViewController.m; sourceTree = "<group>"; };
+		87DFC8251C99D3A80015C825 /* WeeklyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeeklyViewController.h; sourceTree = "<group>"; };
+		87DFC8261C99D3A80015C825 /* WeeklyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeeklyViewController.m; sourceTree = "<group>"; };
+		87DFC82C1C99DB340015C825 /* girl-beautiful-blonde-child-2927.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "girl-beautiful-blonde-child-2927.jpg"; sourceTree = "<group>"; };
+		87DFC82E1C99DC150015C825 /* fitness-workout-clothing-and-women-039-s.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "fitness-workout-clothing-and-women-039-s.jpg"; sourceTree = "<group>"; };
+		87DFC8301C99E1BD0015C825 /* BeautyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BeautyViewController.h; sourceTree = "<group>"; };
+		87DFC8311C99E1BD0015C825 /* BeautyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BeautyViewController.m; sourceTree = "<group>"; };
+		87DFC8331C99E1DC0015C825 /* SlimViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SlimViewController.h; sourceTree = "<group>"; };
+		87DFC8341C99E1DC0015C825 /* SlimViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SlimViewController.m; sourceTree = "<group>"; };
+		87DFC8361C99EA0D0015C825 /* cool-pics-for-facebook-profile-picture-for-girl-animated-photos-for-cute-girls-1540856818.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cool-pics-for-facebook-profile-picture-for-girl-animated-photos-for-cute-girls-1540856818.jpg"; sourceTree = "<group>"; };
 		87DFDCC51C98F8830051FADD /* tipingbeauty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tipingbeauty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87DFDCC91C98F8830051FADD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		87DFDCCB1C98F8830051FADD /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -54,6 +79,12 @@
 		87DFDCEC1C98F8840051FADD /* tipingbeautyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipingbeautyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		87DFDCF01C98F8840051FADD /* tipingbeautyUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tipingbeautyUITests.m; sourceTree = "<group>"; };
 		87DFDCF21C98F8840051FADD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87DFDD011C9901FA0051FADD /* male.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = male.h; sourceTree = "<group>"; };
+		87DFDD021C9901FA0051FADD /* male.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = male.m; sourceTree = "<group>"; };
+		87DFDD041C9902600051FADD /* female.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = female.h; sourceTree = "<group>"; };
+		87DFDD051C9902600051FADD /* female.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = female.m; sourceTree = "<group>"; };
+		87DFDD071C9902FA0051FADD /* dailytips.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dailytips.h; sourceTree = "<group>"; };
+		87DFDD081C9902FA0051FADD /* dailytips.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dailytips.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +112,48 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		87DFC8291C99D4410015C825 /* malehandsome */ = {
+			isa = PBXGroup;
+			children = (
+				87DFDD011C9901FA0051FADD /* male.h */,
+				87DFDD021C9901FA0051FADD /* male.m */,
+				87DFC8221C99D3840015C825 /* DailyViewController.h */,
+				87DFC8231C99D3840015C825 /* DailyViewController.m */,
+				87DFC8251C99D3A80015C825 /* WeeklyViewController.h */,
+				87DFC8261C99D3A80015C825 /* WeeklyViewController.m */,
+				87DFC82A1C99D4B30015C825 /* femalebeauty */,
+			);
+			name = malehandsome;
+			sourceTree = "<group>";
+		};
+		87DFC82A1C99D4B30015C825 /* femalebeauty */ = {
+			isa = PBXGroup;
+			children = (
+				87DE69141C9AB72400FBBB11 /* BEAUTYDAILY.pdf */,
+				87DE69161C9AB72D00FBBB11 /* getfit.pdf */,
+				87DFC8361C99EA0D0015C825 /* cool-pics-for-facebook-profile-picture-for-girl-animated-photos-for-cute-girls-1540856818.jpg */,
+				87DFC82C1C99DB340015C825 /* girl-beautiful-blonde-child-2927.jpg */,
+				87DFC82E1C99DC150015C825 /* fitness-workout-clothing-and-women-039-s.jpg */,
+				87DFDD041C9902600051FADD /* female.h */,
+				87DFDD051C9902600051FADD /* female.m */,
+				87DFC8301C99E1BD0015C825 /* BeautyViewController.h */,
+				87DFC8311C99E1BD0015C825 /* BeautyViewController.m */,
+				87DFC8331C99E1DC0015C825 /* SlimViewController.h */,
+				87DFC8341C99E1DC0015C825 /* SlimViewController.m */,
+				87DFC82B1C99D4CE0015C825 /* dailytips */,
+			);
+			name = femalebeauty;
+			sourceTree = "<group>";
+		};
+		87DFC82B1C99D4CE0015C825 /* dailytips */ = {
+			isa = PBXGroup;
+			children = (
+				87DFDD071C9902FA0051FADD /* dailytips.h */,
+				87DFDD081C9902FA0051FADD /* dailytips.m */,
+			);
+			name = dailytips;
+			sourceTree = "<group>";
+		};
 		87DFDCBC1C98F8830051FADD = {
 			isa = PBXGroup;
 			children = (
@@ -108,6 +181,7 @@
 				87DFDCCC1C98F8830051FADD /* AppDelegate.m */,
 				87DFDCCE1C98F8830051FADD /* FirstViewController.h */,
 				87DFDCCF1C98F8830051FADD /* FirstViewController.m */,
+				87DFC8291C99D4410015C825 /* malehandsome */,
 				87DFDCD11C98F8830051FADD /* SecondViewController.h */,
 				87DFDCD21C98F8830051FADD /* SecondViewController.m */,
 				87DFDCD41C98F8830051FADD /* Main.storyboard */,
@@ -248,8 +322,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87DFC82F1C99DC150015C825 /* fitness-workout-clothing-and-women-039-s.jpg in Resources */,
 				87DFDCDB1C98F8830051FADD /* LaunchScreen.storyboard in Resources */,
+				87DE69151C9AB72400FBBB11 /* BEAUTYDAILY.pdf in Resources */,
 				87DFDCD81C98F8830051FADD /* Assets.xcassets in Resources */,
+				87DFC8371C99EA0D0015C825 /* cool-pics-for-facebook-profile-picture-for-girl-animated-photos-for-cute-girls-1540856818.jpg in Resources */,
+				87DE69171C9AB72D00FBBB11 /* getfit.pdf in Resources */,
+				87DFC82D1C99DB340015C825 /* girl-beautiful-blonde-child-2927.jpg in Resources */,
 				87DFDCD61C98F8830051FADD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -275,10 +354,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87DFC8321C99E1BD0015C825 /* BeautyViewController.m in Sources */,
+				87DFDD031C9901FA0051FADD /* male.m in Sources */,
 				87DFDCD31C98F8830051FADD /* SecondViewController.m in Sources */,
+				87DFC8241C99D3840015C825 /* DailyViewController.m in Sources */,
 				87DFDCCD1C98F8830051FADD /* AppDelegate.m in Sources */,
+				87DFC8351C99E1DC0015C825 /* SlimViewController.m in Sources */,
 				87DFDCD01C98F8830051FADD /* FirstViewController.m in Sources */,
 				87DFDCCA1C98F8830051FADD /* main.m in Sources */,
+				87DFDD061C9902600051FADD /* female.m in Sources */,
+				87DFC8271C99D3A80015C825 /* WeeklyViewController.m in Sources */,
+				87DFDD091C9902FA0051FADD /* dailytips.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -504,6 +590,7 @@
 				87DFDCF71C98F8840051FADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		87DFDCF81C98F8840051FADD /* Build configuration list for PBXNativeTarget "tipingbeautyTests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +599,7 @@
 				87DFDCFA1C98F8840051FADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		87DFDCFB1C98F8840051FADD /* Build configuration list for PBXNativeTarget "tipingbeautyUITests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +608,7 @@
 				87DFDCFD1C98F8840051FADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
